@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sun-link.netlify.app/sitemap.xml
