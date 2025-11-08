@@ -102,4 +102,4 @@ https://url-shortener-dcg9.onrender.com/abc123
 ### Nagaraj Golai
 [![💼 GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagarajGolai)
 [![🔗 LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarajgolai)
-[![🐦 Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=twitter&logoColor=000000)](https://nagarajgolai-netlify.app/)
+[![🐦 Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=twitter&logoColor=000000)](https://nagarajgolai.netlify.app/)
